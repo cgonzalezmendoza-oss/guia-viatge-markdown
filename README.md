@@ -26,7 +26,8 @@ Welcome to my *mini tour guide!* This guide will help me plan my trip to **Paris
 ## **My Itinerary**
   1. Day 1: Visit the Eiffel Tower and take pictures.
   2. Day 2: Explore the Louvre Museum and try French pastries.
-  3. Day 3: Visit Notre-Dame Cathedral and walk along the Seine River.
+     - [Louvre Musseum website](https://louvre-museum-tickets.org/en/?utm_source=bing&utm_medium=cpc&utm_campaign=louvre_eng_eur_sea&msclkid=04a4b93328bb17d89722d3fe7f4f8878&utm_term=louvre%20museum&utm_content=louvre_eng_fr_all) 
+  4. Day 3: Visit Notre-Dame Cathedral and walk along the Seine River.
 ## Imagine Paris
 
 ![the louvre musseum](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sortiraparis.com%2Fimages%2F80%2F66131%2F350528-le-musee-du-louvre-coeur-artistique-et-touristique-de-la-capitale.jpg&f=1&nofb=1&ipt=a34f335d951e0b6df1df7aacaa1b079cf290911796dc2e34ff67a24c11dc553d&ipo=images)
