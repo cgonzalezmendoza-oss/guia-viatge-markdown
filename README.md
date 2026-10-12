@@ -4,11 +4,11 @@ Welcome to my *mini tour guide!* This guide will help me plan my trip to **Paris
 
 ## Things to Pack
 *Comfortable* walking shoes
-- A camera or phone
+- My phone
 - A backpack
 - A water bottle
 - Sunglasses
-- A map of Paris
+- My medicine **(important)**
 ## **Iconic** French Food
 - Croissants
 - French baguettes
@@ -25,7 +25,8 @@ Welcome to my *mini tour guide!* This guide will help me plan my trip to **Paris
 3. Day 3: Visit Notre-Dame Cathedral and walk along the Seine River.
 ## Imagine Paris
 
-!The Eiffel Tower in Paris
+![the louvre musseum](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sortiraparis.com%2Fimages%2F80%2F66131%2F350528-le-musee-du-louvre-coeur-artistique-et-touristique-de-la-capitale.jpg&f=1&nofb=1&ipt=a34f335d951e0b6df1df7aacaa1b079cf290911796dc2e34ff67a24c11dc553d&ipo=images)
+### Louvre Museum
 
 Conclusion
 
